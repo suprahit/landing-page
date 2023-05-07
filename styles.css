@@ -142,6 +142,10 @@ h2 {
     padding: 0.8rem;
 }
 
+input[type="email"] {
+    width: 20rem;
+}
+
 #features-section {
     margin-top: 5rem;
     display: flex;
